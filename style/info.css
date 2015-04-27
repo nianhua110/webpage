@@ -1,0 +1,45 @@
+#info{
+	font-size: 12px; 				/*字体大小*/
+	color: #333333; 				/*字体颜色*/
+	background-color:#FFFFFF; 		/*背景颜色*/
+	text-align: center; 				/*文本水平居中*/
+	height: 460px; 					/*高度*/
+	width: 849px; 					/*宽度*/
+	*width: 612px; 					/*宽度，解决兼容问题*/
+	border-right-width: 1px; 			/*右边框宽度*/
+	border-right-style: solid; 			/*右边框类型*/
+	border-right-color: #CCCCCC; 		/*右边框颜色*/
+}
+#info h1{
+	font-size: 14px; 				/*字体大小*/
+	text-align: left; 					/*文本水平靠左排列*/
+	text-indent: 20px; 				/*文本缩进距离*/
+}
+#info p{
+	font-size: 12px; 				/*字体大小*/
+	font-weight: normal; 				/*字体粗细*/
+	text-align: left; 					/*文本水平靠左排列*/
+	text-indent: 30px; 				/*文本缩进距离*/
+}
+#info span{
+	font-size: 12px; 				/*字体大小*/
+	font-weight: bold; 				/*粗体*/
+	color: #CC3300; 				/*字体颜色*/
+	margin-right: 15px; 				/*外右边距*/
+	margin-left: 5px; 				/*外左边距*/
+}
+#info table{
+	background-color: #499622; 		/*背景颜色*/
+	height: auto; 					/*高度*/
+	width: 500px; 					/*宽度*/
+	margin-top: 20px; 				/*外上边距*/
+}
+#info tr{
+	background-color: #FFFFFF; 		/*背景颜色*/
+}
+#info td{
+	padding-top: 7px; 				/*内上边距*/
+	padding-right: 15px; 			/*内右边距*/
+	padding-bottom: 7px; 			/*内下边距*/
+	padding-left: 15px; 				/*内左边距*/
+}

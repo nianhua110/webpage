@@ -1,0 +1,17 @@
+#footer{
+	clear:both; 				/*清除浮动影响*/
+	margin-left:auto; 			/*外左边距*/
+	margin-right:auto; 			/*外右边距*/
+	font-size: 12px; 			/*字体大小*/
+	color: #666666; 			/*字体颜色*/
+	background-color: #D9D9D9; 	/*背景颜色*/
+	text-align: center; 			/*文本水平居中*/
+	vertical-align: middle; 		/*文本垂直居中排列*/
+	height: auto; 				/*高度*/
+	width: 850px; 				/*宽度*/
+	padding-top: 7px; 			/*内上边距*/
+	padding-bottom:7px; 		/*内下边距*/
+}
+#footer p{
+	margin:10px; 				/*外边距*/
+}
